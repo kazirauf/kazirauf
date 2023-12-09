@@ -25,6 +25,32 @@
 <br/>
 <br/>
 
+📧 Reach me out
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; height: 80px;">
+
+  <a href="https://www.linkedin.com/in/kazi-rauf-elahi-a47a78250/" target="_blank">
+    <img width="200px" height="75px" style="margin-bottom: 7px;" src="https://i.ibb.co/bNxy6gP/l-removebg-preview.png" />
+  </a>
+
+  <a href="https://www.instagram.com/kazirauf8919/" target="_blank">
+    <img width="200px" height="100px" style="margin-right: 30px;" src="https://i.ibb.co/BKBvrfM/i-removebg-preview.png" />
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=100075923125510" target="_blank">
+    <img width="200px" height="75px" style="margin-right: 30px;" src="https://i.ibb.co/2NpWCN9/f-removebg-preview.png" />
+  </a>
+  <br/>
+  <br/>
+  <br/>
+
+  <img width="200px" height="75px" style="margin-right: 30px;" src="https://i.ibb.co/yN2LVvw/p-removebg-preview.png" />
+
+  <img width="200px" height="75px" style="margin-right: 30px;" src="https://i.ibb.co/z71wj6g/e-removebg-preview.png" />
+
+</div>
+
+
+
 👀 Current Overview
 
 🔭 Working: In MERN (MongoDB, Express.js, React, Node.js) stack development.
