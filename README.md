@@ -2,7 +2,7 @@
 
 ![cover photo!](https://raw.githubusercontent.com/kazirauf/kazirauf/main/Black%20and%20Pink%20Gradient%20Motivational%20Quote%20Desktop%20Wallpaper.png)
 
-💻 Technologies that I know
+💻 My Skills
 
 <br/>
  <div align="center">
