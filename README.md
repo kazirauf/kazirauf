@@ -2,6 +2,41 @@
 
 ![cover photo!](https://raw.githubusercontent.com/kazirauf/kazirauf/main/Black%20and%20Pink%20Gradient%20Motivational%20Quote%20Desktop%20Wallpaper.png)
 
+
+
+👩‍💻 About Me
+
+Hey there 👋
+
+🚀 MERN Stack Web Developer - Kazi Rauf Elahi
+
+Passionate about crafting exceptional web experiences through cutting-edge technologies. 🌐
+
+🛠️ Skills:
+
+HTML, CSS, JavaScript
+React, Bootstrap, Firebase
+MongoDB, Express JS
+High-quality, scalable solutions
+🌟 Why Choose Me:
+
+Proven success in web development
+Innovation in a dynamic tech landscape
+Strong problem-solving skills
+👩‍💻 Seeking Opportunities:
+Eager to contribute technical prowess to exciting projects and collaborate with dynamic teams. Open to challenges pushing the boundaries of web development.
+
+📈 Continuous Growth:
+Dedicated to enhancing proficiency in diverse technologies, staying at the forefront of the evolving web development landscape.
+
+Let's build something extraordinary together! 🚀
+
+📱 Contact:
+
+📞 +8801404555331
+📧 Email: raufelahi9876@gmail.com
+Connect for collaborations or discussions! 🌐✉️
+
 💻 My Skills
 
 <br/>
