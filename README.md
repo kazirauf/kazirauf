@@ -12,7 +12,7 @@
 Hello! I'm Kazi Rauf Elahi, a **Full-Stack Web Developer** with expertise in building high-quality, scalable solutions using modern web technologies. I am passionate about creating seamless user experiences and continuously learning new skills. Let's collaborate on something amazing! 🚀
 
 ---
-<img align="right" alt="Coding" width="600" height="370" src="https://raw.githubusercontent.com/kazirauf/kazirauf/refs/heads/main/Black%20and%20Pink%20Gradient%20Motivational%20Quote%20Desktop%20Wallpaper.png">
+<img align="right" alt="Coding" width="500" height="310" src="https://raw.githubusercontent.com/kazirauf/kazirauf/refs/heads/main/Black%20and%20Pink%20Gradient%20Motivational%20Quote%20Desktop%20Wallpaper.png">
 
 
 <p align="left">
