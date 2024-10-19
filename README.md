@@ -3,7 +3,7 @@
 ![cover photo!](https://raw.githubusercontent.com/kazirauf/kazirauf/refs/heads/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Kazi Rauf Elahi</h1>
-<h3 align="center">A passionate Full Stack Web Developer|</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
 
 ---
